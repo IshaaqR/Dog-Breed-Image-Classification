@@ -1,2 +1,2 @@
 # Dog-Breed-Image-Classification
-The purpose of this project was to classify images of dogs into their respective breeds. The code and report for this project are available in this repository as well. 
+In this project, me and [a teammate](https://www.linkedin.com/in/nathan-williams-357a5b61/) classified images of dogs into their respective breeds. Some steps taken in this project were creating a deep learning CNN in TensorFlow using transfer learning, using data augmentation to improve training data, tuning hyperparameters as well as fine-tuning on the base model. The code and report for this project are available in this repository as well.
